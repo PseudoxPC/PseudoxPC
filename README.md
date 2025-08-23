@@ -1,6 +1,6 @@
 <!-- Banner or Intro GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukhO2VGjpjkzq/giphy.gif" width="280px">
+  <img src="https://media4.giphy.com/media/26xBukhO2VGjpjkzq/giphy.gif" width="280px">
 </p>
 
 # Hi there, I'm Priyanshu 👋  
