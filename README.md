@@ -32,9 +32,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuChouhan&show_icons=true&theme=radical)  
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PseudoxPC&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuChouhan&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoxPC&layout=compact&theme=radical)  
 
 ---
 
