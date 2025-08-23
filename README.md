@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Priyanshu 👋</h1>
-<p align="center"><b>AI & Blockchain Enthusiast | Innovator | Lifelong Learner</b></p>
+<p align="center"><b>AI & ML Enthusiast | Innovator | Lifelong Learner</b></p>
 
 ---
 
@@ -26,13 +26,13 @@
 ## 🛠️ Tech Stack  
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,sql" />  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,sql,R" />  
 
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,flask" />  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,matplotlib,seaborn" />  
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,postgres,azure,linux,github,vscode" />  
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,github,vscode,jupyter,power bi,tableau" />  
 
 **Cloud**  
 <img src="https://skillicons.dev/icons?i=azure" />  
@@ -88,10 +88,10 @@ Real-time NSE stock data fetching, processing & visualization
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-chouhan">
+  <a href="www.linkedin.com/in/priyanshu-chouhan-ba035a279">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
-  <a href="mailto:22ad10pr1@mitsgwl.ac.in">
+  <a href="mailto:priyanshuchouhan0607@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
   </a>
   <a href="https://github.com/PseudoxPC">
