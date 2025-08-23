@@ -26,13 +26,18 @@
 ## 🛠️ Tech Stack  
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,sql,R" />  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,sql,r" />  
 
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,matplotlib,seaborn" />  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white"/>  
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,github,vscode,jupyter,power bi,tableau" />  
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,github,vscode,jupyter,postgres,linux" /><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>  
 
 **Cloud**  
 <img src="https://skillicons.dev/icons?i=azure" />  
@@ -85,10 +90,18 @@ Real-time NSE stock data fetching, processing & visualization
 
 ---
 
+## 🏅 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PseudoxPC?ext=heatmap&theme=dark" height="220px"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/priyanshu-chouhan-ba035a279">
+  <a href="https://www.linkedin.com/in/priyanshu-chouhan-ba035a279">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
   <a href="mailto:priyanshuchouhan0607@gmail.com">
