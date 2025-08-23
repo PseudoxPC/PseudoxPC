@@ -1,32 +1,30 @@
-<!-- Banner or Intro GIF -->
+<!-- Banner GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280px">
 </p>
 
-
-# Hi there, I'm Priyanshu 👋  
-**`AI & Blockchain Enthusiast | Innovator | Lifelong Learner`**
-
-🎓 **Artificial Intelligence & Data Science** @ MITS Gwalior  
-💡 Passionate about **Deep Learning, Blockchain, and Innovative Tech Solutions**  
-🚀 Exploring **AI, Cloud, and Full-Stack Development**  
-✨ *"Innovating with AI, Building with Blockchain, and Learning every day."*  
+<h1 align="center">Hi there, I'm Priyanshu 👋</h1>
+<p align="center"><b>AI & Blockchain Enthusiast | Innovator | Lifelong Learner</b></p>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🔥 About Me  
-- 🌱 Currently working on: **Climate Forecasting & Stock Data Analysis**  
+- 🎓 Artificial Intelligence & Data Science @ MITS Gwalior  
+- 🌱 Working on **Climate Forecasting & Stock Data Analysis**  
 - 🧠 Interests: **AI/ML, Blockchain, System Security, Data Science**  
-- 🏆 Selected for **Tata Imagination Challenge 2024 (National Finalist Round)**  
+- 🏆 Tata Imagination Challenge 2024 – *National Finalist Round*  
 - 🎖 Recipient of **ONGC Foundation Scholarship**  
-- 📚 Researcher: **Simulation of Self-Driving Cars using CNNs**  
+- 📚 Researcher: *Self-Driving Cars using CNNs*  
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  
 **Languages**  
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,sql" />  
 
@@ -34,35 +32,55 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,flask" />  
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,postgres,azure" />  
-<img src="https://skillicons.dev/icons?i=linux,github,powershell,vscode" />  
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,postgres,azure,linux,github,vscode" />  
 
 **Cloud**  
-<img src="https://skillicons.dev/icons?i=azure" /> <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white"/>  
+<img src="https://skillicons.dev/icons?i=azure" />  
+<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Infosys%20Springboard-0078D7?style=flat&logo=microsoftazure&logoColor=white"/>  
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[Blockchain-Based Payment Gateway](#)** – Secure crypto-to-fiat transactions using Ethereum & Smart Contracts  
-🔹 **[Weather Forecasting Model](#)** – Deep learning with CNN + LSTM on spatiotemporal data  
-🔹 **[Student Performance Dashboard](#)** – Interactive Power BI dashboard with visual insights  
-🔹 **[Stock Market Analysis Tool](#)** – Real-time NSE stock data fetching, processing & visualization  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔹 **[Blockchain-Based Payment Gateway](#)**  
+Secure crypto-to-fiat transactions using Ethereum & Smart Contracts  
+
+🔹 **[Weather Forecasting Model](#)**  
+Deep learning with CNN + LSTM on spatiotemporal data  
+
+</td>
+<td width="50%" valign="top">
+
+🔹 **[Student Performance Dashboard](#)**  
+Interactive Power BI dashboard with visual insights  
+
+🔹 **[Stock Market Analysis Tool](#)**  
+Real-time NSE stock data fetching, processing & visualization  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PseudoxPC&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoxPC&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PseudoxPC&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoxPC&layout=compact&theme=radical" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PseudoxPC&theme=radical&hide_border=false" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PseudoxPC&theme=radical&hide_border=false" height="170px"/>
 </p>
 
 ---
@@ -87,6 +105,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250px" /><br>
+  <img src="https://media4.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220px"/><br>
   <b>Let’s connect, collaborate, and innovate 🚀</b>
 </p>
