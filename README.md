@@ -18,11 +18,14 @@
 <td width="50%" valign="top">
 
 ## 🔥 About Me  
-- 🎓 B.Tech (Artificial Intelligence & Data Science) @ MITS Gwalior  
-- 🌱 Working on **Stock Data Analysis**  
-- 🧠 Interests: **AI/ML, Data Science, Cloud, Data Analytics and Visualization**  
-- 🏆 Tata Imagination Challenge 2024 – *National Finalist Round*  
-- 🎖 Recipient of **ONGC Foundation Scholarship || Reliance Foundation Scholarship || FFE Foundation Scholarship**   
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science at Madhav Institute of Technology and Science  
+- 🌱 Currently working on projects in **Deep Learning**, **Stock Data Analysis**,
+- 🛠 Skilled in C, C++, Python, R, Java, Machine Learning, CNNs and NLP
+- 🧠 Interests: **AI/ML, Data Science, Cloud Technologies, AI Applications Data Analytics and Visualization**
+- 🌱 Continuously learning and exploring research-driven solutions in AI and emerging technologies
+- 🏆 Tata Imagination Challenge 2024 – *National Finalist*  
+- 🎖 Recipient of **ONGC Foundation Scholarship || Reliance Foundation Scholarship || FFE Foundation Scholarship**
+- 🚀 Open to collaborating on innovative projects, research papers, and open-source contributions 
 
 </td>
 <td width="50%" valign="top">
