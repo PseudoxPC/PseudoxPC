@@ -115,14 +115,17 @@ Real-time NSE stock data fetching, processing & visualization
   <a href="https://www.linkedin.com/in/priyanshu-chouhan-ba035a279">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
+  <a href="https://www.instagram.com/pc.pixels?igsh=MWtrenE4MWR3ZmZuaA==">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px"/>
+  </a>
   <a href="mailto:priyanshuchouhan0607@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
   </a>
   <a href="https://github.com/PseudoxPC">
     <img src="https://skillicons.dev/icons?i=github" width="40px"/>
   </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=devto" width="40px"/>
+  <a href="https://www.credly.com/users/priyanshu-chouhan67">
+    <img src="https://skillicons.dev/icons?i=credly" width="40px"/>
   </a>
 </p>  
 
