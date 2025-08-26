@@ -125,7 +125,7 @@ Real-time NSE stock data fetching, processing & visualization
     <img src="https://skillicons.dev/icons?i=github" width="40px"/>
   </a>
   <a href="https://www.credly.com/users/priyanshu-chouhan67">
-    <img src="https://skillicons.dev/icons?i=credly" width="40px"/>
+    <img src="https://skillicons.dev/icons?i=devto" width="40px"/>
   </a>
 </p>  
 
