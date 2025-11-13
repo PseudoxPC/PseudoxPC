@@ -88,27 +88,6 @@ Real-time NSE stock data fetching, processing & visualization
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PseudoxPC&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoxPC&layout=compact&theme=radical" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PseudoxPC&theme=radical&hide_border=false" height="170px"/>
-</p>
-
----
-
-## 🏅 LeetCode Stats  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/PseudoxPC?ext=heatmap&theme=dark" height="220px"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
