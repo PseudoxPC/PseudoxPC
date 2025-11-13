@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack  
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,r,sql" />  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,r,sql" />  
 
 **Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
@@ -43,44 +43,15 @@
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat&logoColor=white"/>  
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,github,vscode,jupyter,postgres,linux" /><br>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>  
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,github,vscode,jupyter" /><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>   
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>  
 
 **Cloud**  
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />  
+<img src="https://skillicons.dev/icons?i=aws,gcp" />  
 <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Infosys%20Springboard-0078D7?style=flat&logo=microsoftazure&logoColor=white"/>  
-
-</td>
-</tr>
-</table>
-
----
-
-## 📌 Featured Projects  
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🔹 **[Blockchain-Based Payment Gateway](#)**  
-Secure crypto-to-fiat transactions using Ethereum & Smart Contracts  
-
-🔹 **[Weather Forecasting Model](#)**  
-Deep learning with CNN + LSTM on spatiotemporal data  
-
-</td>
-<td width="50%" valign="top">
-
-🔹 **[Student Performance Dashboard](#)**  
-Interactive Power BI dashboard with visual insights  
-
-🔹 **[Stock Market Analysis Tool](#)**  
-Real-time NSE stock data fetching, processing & visualization  
 
 </td>
 </tr>
